@@ -11,7 +11,7 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="spotlight">
+	<div class="inner">
 		<header class="major">
 			<h2>Bangladesh-China Power Company (Pvt.) Limited</h2>
 			<h3>Deputy Manager (HR)</h3>
