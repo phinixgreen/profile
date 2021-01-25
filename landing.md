@@ -18,6 +18,9 @@ nav-menu: true
 			<h4>2020/03/10 - Present</h4>
 		</header>
 		<p> I work as Deputy Manager HR.</p>
+		<ul class="actions">
+			<li><a href="https://www.bcpcl.org.bd" class="button">Learn more about BCPCL</a></li>
+		</ul>
 	</div>
 </section>
 
