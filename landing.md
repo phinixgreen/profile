@@ -11,7 +11,7 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
+	<div class="spotlight">
 		<header class="major">
 			<h2>Bangladesh-China Power Company (Pvt.) Limited</h2>
 			<h3>Deputy Manager (HR)</h3>
@@ -25,7 +25,7 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="two" class="inner">
 	<section>
 		<div class="content">
 			<div class="inner">
@@ -42,7 +42,7 @@ nav-menu: true
 	</section>
 	
 <!-- Three -->
-<section id="three" class="spotlights">
+<section id="three" class="inner">
 	<section>
 		<div class="content">
 			<div class="inner">
