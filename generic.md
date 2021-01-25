@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 description: 
-image: assets/images/andersipsen.jpg
+image: assets/images/kevinwong.jpg
 nav-menu: true
 ---
 
