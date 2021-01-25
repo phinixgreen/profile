@@ -35,7 +35,7 @@ nav-menu: true
 				</header>
 				<p>I work as Assistant Manager (HR)</p>
 				<ul class="actions">
-					<li><a href="https://www.bcpcl.org.bd" class="button">Learn more BCPCL</a></li>
+					<li><a href="https://www.bcpcl.org.bd" class="button">Learn more about BCPCL</a></li>
 				</ul>
 			</div>
 		</div>
