@@ -41,3 +41,22 @@ nav-menu: true
 		</div>
 	</section>
 	
+<!-- Three -->
+<section id="three" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>RedOrange Media and Communications</h2>
+					<h3>Executive - Research and Communications</h3>
+					<h4>2015/05/15 - 2016/05/15</h4>
+				</header>
+				<p>I work as Executive Research and Communications</p>
+				<ul class="actions">
+					<li><a href="https://redorangecom.com" class="button">Learn more about RO</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		
+	
