@@ -11,13 +11,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Bangladesh-China Power Company (Pvt.) Limited</h2>
-			<h3>Deputy Manager (HR)</h3>
-			<h4>2020/03/10 - Present</h4>
+			<h2>Creative Writing</h2>
+			<h3>Medium</h3>
+			<h4>The Wall of Winter Blues</h4>
 		</header>
-		<p> I work as Deputy Manager HR.</p>
+		<p> Here you get to see my medium blog posts</p>
 		<ul class="actions">
-			<li><a href="https://www.bcpcl.org.bd" class="button">Learn more about BCPCL</a></li>
+			<li><a href="https://medium.com/the-wall-of-winter-blues" class="button">Read my works</a></li>
 		</ul>
 	</div>
 </section>
@@ -28,12 +28,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Assistant Manager (HR)</h3>
-					<h4>2016/06/17 - 2020/03/09</h4>
+					<h2>Music Portfolio</h2>
+					<h3>Soundcloud</h3>
+					<h4> </h4>
 				</header>
-				<p>I work as Assistant Manager (HR)</p>
+				<p>Works as an underground composer</p>
 				<ul class="actions">
-					<li><a href="https://www.bcpcl.org.bd" class="button">Learn more about BCPCL</a></li>
+					<li><a href="https://soundcloud.com/zenightwing" class="button">Hear my sounds</a></li>
 				</ul>
 			</div>
 		</div>
@@ -45,13 +46,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>RedOrange Media and Communications</h2>
-					<h3>Executive - Research and Communications</h3>
-					<h4>2015/05/15 - 2016/05/15</h4>
+					<h2>GitHub</h2>
+					<h3>Phinixgreen</h3>
 				</header>
-				<p>I work as Executive Research and Communications</p>
+				<p>Works as a hobbyist developer</p>
 				<ul class="actions">
-					<li><a href="https://redorangecom.com" class="button">Learn more about RO</a></li>
+					<li><a href="https://github.com/phinixgreen" class="button">See my codes</a></li>
 				</ul>
 			</div>
 		</div>
