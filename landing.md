@@ -28,7 +28,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.steamenginerevolution.com%2Finfo%2Fcoal-fired-power-plants%2F&psig=AOvVaw2RJEfYqPSnlWp8ZqXVB-sS&ust=1611672431757000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjr-e6pt-4CFQAAAAAdAAAAABAD" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
