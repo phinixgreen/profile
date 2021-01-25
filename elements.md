@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: Creative Portfolio
 nav-menu: true
 ---
 
