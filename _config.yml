@@ -35,4 +35,4 @@ markdown: kramdown
 sass:
   style: compressed
 
-theme: forty
+theme: forty_jekyll_theme
