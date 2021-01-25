@@ -2,6 +2,7 @@
 layout: landing
 title: Creative Portfolio
 nav-menu: true
+image: assets/images/danielleone1.jpg
 ---
 
 <!-- Main -->
