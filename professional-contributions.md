@@ -1,6 +1,6 @@
 ---
 title: Professional Contributions
-layout: landing
+layout: professional-contributions
 description: ''
 image: assets/images/pic07.jpg
 nav-menu: true
