@@ -13,7 +13,6 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Creative Writing</h2>
 			<h3>Medium</h3>
 			<h4>The Wall of Winter Blues</h4>
 		</header>
@@ -29,8 +28,8 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Music Portfolio</h2>
-			<h3>Soundcloud</h3>
+			<h2>Soundcloud</h2>
+			<h3>zenightwing</h3>
 		</header>
 		<p> Works as an underground composer</p>
 		<ul class="actions">
