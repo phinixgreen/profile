@@ -39,22 +39,31 @@ nav-menu: true
 	</div>
 </section>
 
-	
-<!-- Three -->
-<section id="three" class="inner">
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h2>GitHub</h2>
-					<h3>Phinixgreen</h3>
-				</header>
-				<p>Works as a hobbyist developer</p>
-				<ul class="actions">
-					<li><a href="https://github.com/phinixgreen" class="button">See my codes</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-		
-	
+<!-- three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>GitHub</h2>
+			<h3>Phinixgreen</h3>
+		</header>
+		<p> Works as a hobbyist developer</p>
+		<ul class="actions">
+			<li><a href="https://github.com/phinixgreen" class="button">See my codes</a></li>
+		</ul>
+	</div>
+</section>
+
+
+<!-- four -->
+<section id="four">
+	<div class="inner">
+		<header class="major">
+			<h2>Instagram</h2>
+			<h3>Zenightwing</h3>
+		</header>
+		<p> Works as an amateur photographer</p>
+		<ul class="actions">
+			<li><a href="https://www.instagram.com/zenightwing/" class="button">View my album</a></li>
+		</ul>
+	</div>
+</section>
