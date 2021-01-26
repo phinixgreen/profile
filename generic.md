@@ -25,10 +25,10 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlight">
+<section id="two" class="inner">
 	<section>
 		<div class="content">
-			<div class="inner">
+			<div class="spotlight">
 				<header class="major">
 					<h2>Music Portfolio</h2>
 					<h3>Soundcloud</h3>
