@@ -29,8 +29,5 @@ image: assets/images/danielleone1.jpg
 </section>
 
 
-	</div>
-</section>
-
 
 
