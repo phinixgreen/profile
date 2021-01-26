@@ -16,7 +16,7 @@ nav-menu: true
 			<h2>Medium</h2>
 			<h3>The Wall of Winter Blues</h3>
 		</header>
-		<p> I have been writing for almost 10 years now. In my free time, I author shortstories and poems, where I explore love, emotions and mental health that serves as reflection on society, culture and humanity.</p>
+		<p> I have been writing for almost 10 years now. In my free time, I author shortstories and poems, where I explore love, emotions and mental health that serve as reflections on the society, cultures and the humanity.</p>
 		<ul class="actions">
 			<li><a href="https://medium.com/the-wall-of-winter-blues" class="button">Read my works</a></li>
 		</ul>
