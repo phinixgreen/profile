@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Who I Am
 description: 
 image: assets/images/kevinwong.jpg
