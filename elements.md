@@ -22,9 +22,6 @@ image: assets/images/danielleone1.jpg
 <br>
 		I am a muslim by religious beliefs. Bangladeshi by nationality, and cosmopolitan by lifestyle and network. I value saving resources where possible and planting trees. I am against killing animals for fun and luxury products and destroying natural habitat.
 </p>
-		<ul class="actions">
-			<li><a href="https://www.bcpcl.org.bd" class="button">Learn more about BCPCL</a></li>
-		</ul>
 	</div>
 </section>
 
