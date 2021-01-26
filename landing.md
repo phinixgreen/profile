@@ -19,7 +19,9 @@ nav-menu: true
 		</header>
 		<p> After joining as Deputy Manager (HR) at BCPCL, I have been trying to modernize the Human Resource Business Processes. My key efforts have been in business process architecture, knowledge management and implementation of an in-house adhoc Human Resource Information and Reporting System.
 	<br>
+	<br>
 		I am currently tasked with overseeing the implementation of a Human Capital Management Software as well as Enterprise Software system. 
+	<br>
 	<br>
 		I am proud to acknowledge the operational successes of Training and Performance Team - 1, which I also oversee. 
 </p>
