@@ -25,7 +25,7 @@ nav-menu: true
 </section>
 
 <!-- Two -->
-<section id="two" class="inner">
+<section id="two" class="spotlight">
 	<section>
 		<div class="content">
 			<div class="inner">
