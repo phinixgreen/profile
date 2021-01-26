@@ -1,5 +1,5 @@
 ---
-title: Professional Contributions
+title: What I Do
 layout: landing
 description: ''
 image: assets/images/pic07.jpg
@@ -17,7 +17,12 @@ nav-menu: true
 			<h3>Deputy Manager (HR)</h3>
 			<h4>2020/03/10 - Present</h4>
 		</header>
-		<p> I work as Deputy Manager HR.</p>
+		<p> After joining as Deputy Manager (HR) at BCPCL, I have been trying to modernize the Human Resource Business Processes. My key efforts have been in business process architecture, knowledge management and implementation of an in-house adhoc Human Resource Information and Reporting System.
+	<br>
+		I am currently tasked with overseeing the implementation of a Human Capital Management Software as well as Enterprise Software system. 
+	<br>
+		I am proud to acknowledge the operational successes of Training and Performance Team - 1, which I also oversee. 
+</p>
 		<ul class="actions">
 			<li><a href="https://www.bcpcl.org.bd" class="button">Learn more about BCPCL</a></li>
 		</ul>
