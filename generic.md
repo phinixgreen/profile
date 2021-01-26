@@ -24,23 +24,21 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
-<section id="two" class="inner">
-	<section>
-		<div class="major">
-			<div class="inner">
-				<header class="major">
-					<h2>Music Portfolio</h2>
-					<h3>Soundcloud</h3>
-					<h4> </h4>
-				</header>
-				<p>Works as an underground composer</p>
-				<ul class="actions">
-					<li><a href="https://soundcloud.com/zenightwing" class="button">Hear my sounds</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+
+<!-- two -->
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>Music Portfolio</h2>
+			<h3>Soundcloud</h3>
+		</header>
+		<p> Works as an underground composer</p>
+		<ul class="actions">
+			<li><a href="https://soundcloud.com/zenightwing"  class="button">Hear my sounds</a></li>
+		</ul>
+	</div>
+</section>
+
 	
 <!-- Three -->
 <section id="three" class="inner">
