@@ -13,8 +13,8 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h3>Medium</h3>
-			<h4>The Wall of Winter Blues</h4>
+			<h2>Medium</h2>
+			<h3>The Wall of Winter Blues</h3>
 		</header>
 		<p> Here you get to see my medium blog posts</p>
 		<ul class="actions">
