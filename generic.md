@@ -27,8 +27,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="inner">
 	<section>
-		<div class="content">
-			<div class="spotlight">
+		<div class="major">
+			<div class="inner">
 				<header class="major">
 					<h2>Music Portfolio</h2>
 					<h3>Soundcloud</h3>
