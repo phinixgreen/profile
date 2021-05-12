@@ -22,5 +22,7 @@ Here's my experience so far. I started out with notion and markdown, then github
 Automation is not everything. Imagine if robots did all your work. I don't know about you, but I'd be very bored. The point is keeping a healthy balance between tools for automating your workflow, and using your mind for work. I find I am most productive when I balance the two well.
 
 ---
+
 Authored by Muhammad Mustafa Monowar | Photo by Owen Michael Grech on Unsplash
+
 ---
