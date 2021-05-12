@@ -1,6 +1,6 @@
 ---
 layout: blogs
-title: Blogs
+title: Blogs  ## Title
 landing-title: 'Blogs'
 nav-menu: true
 description: null
