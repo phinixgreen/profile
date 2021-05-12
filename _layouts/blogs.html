@@ -16,10 +16,10 @@
     <!-- Main -->
     <div id="main" class="alt">
 
-<!-- one -->
-<section id="one">
+      <!-- One -->
+      <section id="one">
 	<div class="inner">
-          {% for post in site.blogs %}  <!-- blog site configured-->
+          {% for post in site.blogs %}
 	  {% if post.title != 404 %}
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
@@ -31,7 +31,6 @@
           {% endfor %}
 	</div>
       </section>
-
 
     </div>
 
