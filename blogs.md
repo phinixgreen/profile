@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: blogs
 title: Blogs
 landing-title: 'Blogs'
 nav-menu: true
