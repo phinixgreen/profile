@@ -20,3 +20,7 @@ Here's my experience so far. I started out with notion and markdown, then github
 - When there's a lot of work to do, should I try to be productive or get to work first? The best bet here is to start working, and get productive as you go. When I say productive, I mean learning tools. Unless you start your work, you might not know what your needs are, therefore my suggestion would be to start with work first and then try to pin the specific needs that could be automated.
 
 Automation is not everything. Imagine if robots did all your work. I don't know about you, but I'd be very bored. The point is keeping a healthy balance between tools for automating your workflow, and using your mind for work. I find I am most productive when I balance the two well.
+
+---
+Authored by Muhammad Mustafa Monowar | Photo by Owen Michael Grech on Unsplash
+---
