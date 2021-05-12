@@ -1,5 +1,5 @@
 ---
-layout: blogs
+layout: allblogs
 title: Blogs  ## Title
 landing-title: 'Blogs'
 nav-menu: true
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>Blogs</h1>
+<h1>blogs</h1>
